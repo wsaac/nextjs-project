@@ -4,18 +4,15 @@ export default function GitHubRepo() {
       <h2>Project Information</h2>
       <p>
         This is my Next.js assignment project. For my final project, I'm interested in exploring 
-        <strong> real-time data visualization with WebSockets and D3.js</strong>. I plan to create 
-        an interactive dashboard that showcases live data updates, dynamic charts, and user 
-        interactions to demonstrate modern web development techniques for data presentation.
-      </p>
+        <strong> efficient daily calorie counting </strong>.I plan to create a webpage that will have useful Information about food and help people with there dieting.      </p>
       <p>
         View the code on GitHub:{' '}
         <a 
-          href="https://github.com/wsaac/nextjs-assignment" 
+          href="https://github.com/wsaac/nextjs-project" 
           target="_blank" 
           rel="noopener noreferrer"
         >
-          https://github.com/yourusername/nextjs-assignment
+          https://github.com/wsaac/nextjs-project
         </a>
       </p>
     </div>
